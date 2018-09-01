@@ -101,31 +101,31 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 |------|--------|----------------------------------|----------------------------|
 | Mon Sept 3    |  Labor Day – UBC closed  | NA  |            |
 | Wed Sept 5    |  Course overview  | NA  |            |
-| Mon Sept 10    |  Guest speaker (MAM@ECML)  | NA  |            |
+| Mon Sept 10    |  Guest speaker (MAM@ECML)  | [[Linear Algebra Review: DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)]  |            |
 | Wed Sept 12    |  Guest speaker (MAM@ECML)  | NA  |            |
-| Mon Sept 17    |    Probability  |   |         |
-| Wed Sept 19    |    Information Theory  |   |         |
-| Mon Sept 24    |    Machine Learning Basics |   |         |
-| Wed Sept 26    |    Word meaning; Feedforward Networks |   |           |
+| Mon Sept 17    |    Probability  | [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]  |         |
+| Wed Sept 19    |    Information Theory  |   |    [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]     |
+| Mon Sept 24    |    Machine Learning Basics |   |  [[DLB CH05](https://www.deeplearningbook.org/contents/ml.html)]       |
+| Wed Sept 26    |    Word meaning; Feedforward Networks |  [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)] |           |
 | Mon Oct 1    |    Language Models and Word2Vec |   |           |
-| Wed Oct 3    |    Recurrent Neural Networks I  |   |         |
+| Wed Oct 3    |    Recurrent Neural Networks I  | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]  | hw01 due     |
 | Mon Oct 8    |    Thanksgiving Day – UBC closed  | NA  |            |
-| Wed Oct 10    |    Recurrent Neural Networks II  |    |          |
+| Wed Oct 10    |    Recurrent Neural Networks II  | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]   |          |
 | Mon Oct 15    |    Neural Morphology  |    |          |
 | Wed Oct 17    |     Neural Sentiment Analysis  |    |          |
 | Mon Oct 22   |     Neural Emotion Detection |     |         |
-| Wed Oct 24   |    Embeddings from Language Models  |    |          |
-| Mon Oct 29    |    ConvNets I  |      |        |
-| Wed Oct 31    |    ConvNets II  |     |         |
-| Mon Nov 5    |    Text Classification: Lexical Dialectology   |   |           |
+| Wed Oct 24   |    Embeddings from Language Models  |    |   hw02 due       |
+| Mon Oct 29    |    ConvNets I  |   [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)]   |        |
+| Wed Oct 31    |    ConvNets II  |  [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)]   |         |
+| Mon Nov 5    |    Text Classification: Lexical Dialectology   |   |   hw03_a due        |
 | Wed Nov 7    |    Seq2Seq; Neural Machine Translation  |      |        |
 | Mon Nov 12    |  Remembrance Day – UBC closed  | NA  |            |
 | Wed Nov 14    |    Memory & Attention; Neural Misinformation  Detection |     |         |
-| Mon Nov 19    |    (Variational) Auto-Encoders  |   |           |
+| Mon Nov 19    |    (Variational) Auto-Encoders  | [[DLB CH14](https://www.deeplearningbook.org/contents/autoencoders.html)]  |           |
 | Wed Nov 21    |    Generative Adversarial Networks |    |          |
 | Mon Nov 26    |    Projects |      |        |
 | Wed Nov 28    |    Projects  |      |        |
-| Mon Dec 2    |    | --  |   Final project due         |
+| Mon Dec 2    |    | --  |   Final project due  (hw03_b)       |
 
 
 
