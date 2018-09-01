@@ -104,7 +104,7 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Mon Sept 10    |  Guest speaker (MAM@ECML)  | Linear Algebra: [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html); [MIT Course](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)]  |            |
 | Wed Sept 12    |  Guest speaker (MAM@ECML)  | NA  |            |
 | Mon Sept 17    |    Probability  | [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry)]  |         |
-| Wed Sept 19    |    Information Theory  |  [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KAI](https://www.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory); [KAII](https://www.khanacademy.org/computing/computer-science/informationtheory)  |        |
+| Wed Sept 19    |    Information Theory  |  [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]; [KAI](https://www.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory); [KAII](https://www.khanacademy.org/computing/computer-science/informationtheory)]  |        |
 | Mon Sept 24    |    Machine Learning Basics | [[DLB CH05](https://www.deeplearningbook.org/contents/ml.html)]  |         |
 | Wed Sept 26    |    Word meaning; Feedforward Networks |  [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)] |           |
 | Mon Oct 1    |    Language Models and Word2Vec |   |           |
