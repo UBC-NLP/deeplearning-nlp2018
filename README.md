@@ -192,7 +192,7 @@ The final deliverable includes:
 
 **Attendance:** The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
 
-**Evaluation:** All assignments will be marked using the evaluative criteria given in this syllabus and also those provided on the SLAIS web site. 
+**Evaluation:** All assignments will be marked using the evaluative criteria given in this syllabus.
 
 
 **Access & Diversity:** Access & Diversity works with the University to create an inclusive living and learning environment in which all students can thrive. The University accommodates students with disabilities who have registered with the [Access and Diversity unit](https://students.ubc.ca/about-student-services/access-diversity). You must register with the Disability Resource Centre to be granted special accommodations for any on-going conditions. 
