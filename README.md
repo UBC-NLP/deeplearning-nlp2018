@@ -104,8 +104,8 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Mon Sept 10    |  Guest speaker (MAM@ECML)  | [[Linear Algebra Review: DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)]  |            |
 | Wed Sept 12    |  Guest speaker (MAM@ECML)  | NA  |            |
 | Mon Sept 17    |    Probability  | [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]  |         |
-| Wed Sept 19    |    Information Theory  |   |    [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]     |
-| Mon Sept 24    |    Machine Learning Basics |   |  [[DLB CH05](https://www.deeplearningbook.org/contents/ml.html)]       |
+| Wed Sept 19    |    Information Theory  |  [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]  |        |
+| Mon Sept 24    |    Machine Learning Basics | [[DLB CH05](https://www.deeplearningbook.org/contents/ml.html)]  |         |
 | Wed Sept 26    |    Word meaning; Feedforward Networks |  [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)] |           |
 | Mon Oct 1    |    Language Models and Word2Vec |   |           |
 | Wed Oct 3    |    Recurrent Neural Networks I  | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]  | hw01 due     |
