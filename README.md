@@ -101,7 +101,7 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 |------|--------|----------------------------------|----------------------------|
 | Mon Sept 3    |  Labor Day – UBC closed  | NA  |            |
 | Wed Sept 5    |  Course overview  | NA  |            |
-| Mon Sept 10    |  Guest speaker (MAM@ECML)  | [[Linear Algebra Review: DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)]  |            |
+| Mon Sept 10    |  Guest speaker (MAM@ECML)  | Linear Algebra: [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)[MIT Course](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)]  |            |
 | Wed Sept 12    |  Guest speaker (MAM@ECML)  | NA  |            |
 | Mon Sept 17    |    Probability  | [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]  |         |
 | Wed Sept 19    |    Information Theory  |  [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]  |        |
