@@ -54,13 +54,16 @@ Upon completion of this course students will be able to:
 * learning words \& phrases (word vectors)% weeks 2, 3%, and sentences
 * recurrent neural networks 
 * convolutional neural networks
+* seq2seq models
+* generative deep learning
+
 ### Applications ###
 
 * POS tagging and morphological disambiguation
 * learning in low-resource languages
 * language/dialect identification
 * emotion and sentiment analysis
-* dialog systems
+* natural language inference
 * machine translation
 
 ## 4.	Prerequisites:  
@@ -98,31 +101,31 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 |------|--------|----------------------------------|----------------------------|
 | Mon Sept 3    |  Labor Day – UBC closed  | NA  |            |
 | Wed Sept 5    |  Course overview  | NA  |            |
-| Wed Sept 10    |  Muhammad @conference  | NA  |            |
-| Wed Sept 12    |  Muhammad @conference  | NA  |            |
-| Wed Sept 17    |    | Probability  |            |
-| Wed Sept 19    |    | Information Theory  |            |
-| Wed Sept 24    |    |  Machine Learning Basics |            |
-| Wed Sept 26    |    | Word meaning  |            |
-| Wed Oct 1    |    |  Language Models and Word2Vec |            |
-| Wed Oct 3    |    | Recurrent Neural Networks I  |            |
-| Wed Oct 8    |    | Thanksgiving Day – UBC closed  |            |
-| Wed Oct 10    |    | Recurrent Neural Networks II  |            |
-| Wed Oct 15    |    | Neural Morphology  |            |
-| Wed Oct 17    |    | Text Classification: Sentiment  |            |
-| Wed Oct 22   |    | Text Classification: Emotion  |            |
-| Wed Oct 24   |    | Embeddings from Language Models  |            |
-| Wed Oct 29    |    | ConvNets 1  |            |
-| Wed Oct 31    |    | ConvNets 2  |            |
-| Wed Nov 5    |    | Text Classification: Lexical Dialectology   |            |
-| Wed Nov 7    |    | Seq2Seq  |            |
-| Wed Nov 12    |    | Remembrance Day – UBC closed  |            |
-| Wed Nov 14    |    | Memory & Attention  |            |
-| Wed Nov 19    |    | (Variational) Auto-Encoders  |            |
-| Wed Nov 21    |    | Generative Adversarial Networks |            |
-| Wed Nov 26    |    |  Projects |            |
-| Wed Nov 28    |    | Projects  |            |
-| Wed Dec 3    |    | --  |   Final project due         |
+| Mon Sept 10    |  Guest speaker (MAM@ECML)  | NA  |            |
+| Wed Sept 12    |  Guest speaker (MAM@ECML)  | NA  |            |
+| Mon Sept 17    |    Probability  |   |         |
+| Wed Sept 19    |    Information Theory  |   |         |
+| Mon Sept 24    |    Machine Learning Basics |   |         |
+| Wed Sept 26    |    Word meaning; Feedforward Networks |   |           |
+| Mon Oct 1    |    Language Models and Word2Vec |   |           |
+| Wed Oct 3    |    Recurrent Neural Networks I  |   |         |
+| Mon Oct 8    |    Thanksgiving Day – UBC closed  | NA  |            |
+| Wed Oct 10    |    Recurrent Neural Networks II  |    |          |
+| Mon Oct 15    |    Neural Morphology  |    |          |
+| Wed Oct 17    |     Neural Sentiment Analysis  |    |          |
+| Mon Oct 22   |     Neural Emotion Detection |     |         |
+| Wed Oct 24   |    Embeddings from Language Models  |    |          |
+| Mon Oct 29    |    ConvNets I  |      |        |
+| Wed Oct 31    |    ConvNets II  |     |         |
+| Mon Nov 5    |    Text Classification: Lexical Dialectology   |   |           |
+| Wed Nov 7    |    Seq2Seq; Neural Machine Translation  |      |        |
+| Mon Nov 12    |  Remembrance Day – UBC closed  | NA  |            |
+| Wed Nov 14    |    Memory & Attention; Neural Misinformation  Detection |     |         |
+| Mon Nov 19    |    (Variational) Auto-Encoders  |   |           |
+| Wed Nov 21    |    Generative Adversarial Networks |    |          |
+| Mon Nov 26    |    Projects |      |        |
+| Wed Nov 28    |    Projects  |      |        |
+| Mon Dec 2    |    | --  |   Final project due         |
 
 
 
