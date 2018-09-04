@@ -106,15 +106,15 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Mon Sept 17    |    Probability  | [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry)]  |         |
 | Wed Sept 19    |    Information Theory  |  [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]; [KAI](https://www.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory); [KAII](https://www.khanacademy.org/computing/computer-science/informationtheory)]  |        |
 | Mon Sept 24    |    Machine Learning Basics | [[DLB CH05](https://www.deeplearningbook.org/contents/ml.html)]  |         |
-| Wed Sept 26    |    Word meaning; Feedforward Networks |  [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)] |           |
-| Mon Oct 1    |    Language Models and Word2Vec |   |           |
+| Wed Sept 26    |    Word meaning; Feedforward Networks |  [[JM CH15](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)]; [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)] |           |
+| Mon Oct 1    |    Language Models and Word2Vec |  [[A neural probabilistic language model](www.cs.ubc.ca/~amuham01/LING530/papers/bengio2003neural.pdf)]; [[Distributed representations of words and phrases and their compositionality](www.cs.ubc.ca/~amuham01/LING530/papers/mikolov2013distributed.pdf)]|           |
 | Wed Oct 3    |    Recurrent Neural Networks I  | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]  | hw01 due     |
 | Mon Oct 8    |    Thanksgiving Day – UBC closed  | NA  |            |
 | Wed Oct 10    |    Recurrent Neural Networks II  | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]   |          |
 | Mon Oct 15    |    Neural Morphology  |    |          |
 | Wed Oct 17    |     Neural Sentiment Analysis  |    |          |
-| Mon Oct 22   |     Neural Emotion Detection |     |         |
-| Wed Oct 24   |    Embeddings from Language Models  |    |   hw02 due       |
+| Mon Oct 22   |     Neural Emotion Detection |  [[EmoNet](http://www.cs.ubc.ca/~amuham01/LING530/papers/mageedEmoNet2017.pdf)]   | |        |
+| Wed Oct 24   |    Embeddings from Language Models  | [[ELMo]](http://www.cs.ubc.ca/~amuham01/LING530/papers/petersELMo2018.pdf)   |   hw02 due       |
 | Mon Oct 29    |    ConvNets I  |   [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)]   |        |
 | Wed Oct 31    |    ConvNets II  |  [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)]   |         |
 | Mon Nov 5    |    Text Classification: Lexical Dialectology   |   |   hw03_a due        |
