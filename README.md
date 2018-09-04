@@ -130,7 +130,9 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 
 
 ## 8. Readings:  
-    
+See Section 7 above.
+Additionally, a list of related papers will be posted here.
+
 ## 9. Course Assignments/Grades:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
