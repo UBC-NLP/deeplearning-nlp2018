@@ -114,10 +114,10 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Mon Oct 15    |    Neural Morphology  |    |          |
 | Wed Oct 17    |     Neural Sentiment Analysis  |    |          |
 | Mon Oct 22   |     Neural Emotion Detection |  [[EmoNet](http://www.cs.ubc.ca/~amuham01/LING530/papers/mageedEmoNet2017.pdf)]   | |        |
-| Wed Oct 24   |    Embeddings from Language Models  | [[ELMo]](http://www.cs.ubc.ca/~amuham01/LING530/papers/petersELMo2018.pdf)   |   hw02 due       |
+| Wed Oct 24   |    Embeddings from Language Models  | [[ELMo](http://www.cs.ubc.ca/~amuham01/LING530/papers/petersELMo2018.pdf)]   |   hw02 due       |
 | Mon Oct 29    |    ConvNets I  |   [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)]   |        |
 | Wed Oct 31    |    ConvNets II  |  [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)]   |         |
-| Mon Nov 5    |    Text Classification: Lexical Dialectology   |   |   hw03_a due        |
+| Mon Nov 5    |    Text Classification: Lexical Dialectology   | [[Deep Models for Arabic Dialect Identification on Benchmarked Data](www.cs.ubc.ca/~amuham01/LING530/papers/elarabyDeepModels2018.pdf)]; [[A Neural Model for User Geolocation and Lexical Dialectology](http://www.cs.ubc.ca/~amuham01/LING530/papers/rahimiGeoloc2017.pdf)] |   hw03_a due        |
 | Wed Nov 7    |    Seq2Seq; Neural Machine Translation  |      |        |
 | Mon Nov 12    |  Remembrance Day – UBC closed  | NA  |            |
 | Wed Nov 14    |    Memory & Attention; Neural Misinformation  Detection |     |         |
