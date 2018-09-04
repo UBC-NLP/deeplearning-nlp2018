@@ -107,7 +107,7 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Wed Sept 19    |    Information Theory  |  [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]; [KAI](https://www.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory); [KAII](https://www.khanacademy.org/computing/computer-science/informationtheory)]  |        |
 | Mon Sept 24    |    Machine Learning Basics | [[DLB CH05](https://www.deeplearningbook.org/contents/ml.html)]  |         |
 | Wed Sept 26    |    Word meaning; Feedforward Networks |  [[JM CH15](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)]; [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)] |           |
-| Mon Oct 1    |    Language Models and Word2Vec |  [[A neural probabilistic language model](www.cs.ubc.ca/~amuham01/LING530/papers/bengio2003neural.pdf)]; [[Distributed representations of words and phrases and their compositionality](www.cs.ubc.ca/~amuham01/LING530/papers/mikolov2013distributed.pdf)]|           |
+| Mon Oct 1    |    Language Models and Word2Vec |  [[A neural probabilistic language model](http://www.cs.ubc.ca/~amuham01/LING530/papers/bengio2003neural.pdf)]; [[Distributed representations of words and phrases and their compositionality](http://www.cs.ubc.ca/~amuham01/LING530/papers/mikolov2013distributed.pdf)]|           |
 | Wed Oct 3    |    Recurrent Neural Networks I  | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]  | hw01 due     |
 | Mon Oct 8    |    Thanksgiving Day – UBC closed  | NA  |            |
 | Wed Oct 10    |    Recurrent Neural Networks II  | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]   |          |
@@ -117,10 +117,10 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Wed Oct 24   |    Embeddings from Language Models  | [[ELMo](http://www.cs.ubc.ca/~amuham01/LING530/papers/petersELMo2018.pdf)]   |   hw02 due       |
 | Mon Oct 29    |    ConvNets I  |   [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)]   |        |
 | Wed Oct 31    |    ConvNets II  |  [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)]   |         |
-| Mon Nov 5    |    Text Classification: Lexical Dialectology   | [[Deep Models for Arabic Dialect Identification on Benchmarked Data](www.cs.ubc.ca/~amuham01/LING530/papers/elarabyDeepModels2018.pdf)]; [[A Neural Model for User Geolocation and Lexical Dialectology](http://www.cs.ubc.ca/~amuham01/LING530/papers/rahimiGeoloc2017.pdf)] |   hw03_a due        |
-| Wed Nov 7    |    Seq2Seq; Neural Machine Translation  |   [[Grammar as a foreign language](www.cs.ubc.ca/~amuham01/LING530/papers/vinyals2015grammar.pdf)]    |        |
+| Mon Nov 5    |    Text Classification: Lexical Dialectology   | [[Deep Models for Arabic Dialect Identification on Benchmarked Data](http://www.cs.ubc.ca/~amuham01/LING530/papers/elarabyDeepModels2018.pdf)]; [[A Neural Model for User Geolocation and Lexical Dialectology](http://www.cs.ubc.ca/~amuham01/LING530/papers/rahimiGeoloc2017.pdf)] |   hw03_a due        |
+| Wed Nov 7    |    Seq2Seq; Neural Machine Translation  |   [[Grammar as a foreign language](http://www.cs.ubc.ca/~amuham01/LING530/papers/vinyals2015grammar.pdf)]    |        |
 | Mon Nov 12    |  Remembrance Day – UBC closed  | NA  |            |
-| Wed Nov 14    |    Memory & Attention; Neural Misinformation  Detection |  [[Neural Machine Translation by Jointly Learning to Align and Translate](www.cs.ubc.ca/~amuham01/LING530/papers/bahdanau2014neural.pdf)]; [[Automatic Stance Detection Using End-to-End Memory Networks](www.cs.ubc.ca/~amuham01/LING530/papers/mohtarami2018automatic.pdf)]  |         |
+| Wed Nov 14    |    Memory & Attention; Neural Misinformation  Detection |  [[Neural Machine Translation by Jointly Learning to Align and Translate](http://www.cs.ubc.ca/~amuham01/LING530/papers/bahdanau2014neural.pdf)]; [[Automatic Stance Detection Using End-to-End Memory Networks](http://www.cs.ubc.ca/~amuham01/LING530/papers/mohtarami2018automatic.pdf)]  |         |
 | Mon Nov 19    |    (Variational) Auto-Encoders  | [[DLB CH14](https://www.deeplearningbook.org/contents/autoencoders.html)]  |           |
 | Wed Nov 21    |    Generative Adversarial Networks |    |          |
 | Mon Nov 26    |    Projects |      |        |
