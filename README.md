@@ -162,6 +162,24 @@ This list will grow.
 
 * [[Emonet: Fine-grained emotion detection with gated recurrent neural networks]](www.cs.ubc.ca/~amuham01/LING530/papers/mageedEmoNet2017.pdf)
 
+* [[Is statistical machine translation approach dead?](http://www.cs.ubc.ca/~amuham01/LING530/papers/menacer2017statistical.pdf)]
+
+* [[Neural machine translation and sequence-to-sequence models: A tutorial](http://www.cs.ubc.ca/~amuham01/LING530/papers/neubig2017neural.pdf)]
+
+* [[Adversarial training methods for semi-supervised text classification](www.cs.ubc.ca/~amuham01/LING530/papers/miyato2016adversarial.pdf)]
+
+* [[Learned in translation: Contextualized word vectors](www.cs.ubc.ca/~amuham01/LING530/papers/mccann2017learned.pdf)]
+
+* [[Semi-supervised sequence learning](http://www.cs.ubc.ca/~amuham01/LING530/papers/dai2015semi.pdf)]
+
+* [[Auto-encoding variational bayes](http://www.cs.ubc.ca/~amuham01/LING530/papers/kingma2013auto.pdf)]
+
+* [[Sentiment Transfer using Seq2Seq Adversarial Autoencoders](http://www.cs.ubc.ca/~amuham01/LING530/papers/singh2018sentiment.pdf)]
+
+* [[Variational Autoencoder for Semi-Supervised Text Classification](http://www.cs.ubc.ca/~amuham01/LING530/papers/xu2017variational.pdf)]
+
+
+
 ## 9. Course Assignments/Grades:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
