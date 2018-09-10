@@ -178,6 +178,10 @@ This list will grow.
 
 * [[Variational Autoencoder for Semi-Supervised Text Classification](http://www.cs.ubc.ca/~amuham01/LING530/papers/xu2017variational.pdf)]
 
+* [[Phrase-Based \& Neural Unsupervised Machine Translation] (www.cs.ubc.ca/~amuham01/LING530/papers/lample2018phrase.pdf)]
+
+
+
 
 
 ## 9. Course Assignments/Grades:
