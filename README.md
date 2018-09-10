@@ -131,9 +131,36 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 
 ## 8. Readings:  
 See Section 7 above.
-Additionally, a list of related papers will be posted here.
+Additionally, below is list of relevant/interesting/background papers.
+This list will grow.
+
 * [[Toward controlled generation of text](www.cs.ubc.ca/~amuham01/LING530/papers/hu2017toward.pdf)]
 
+* [[Tutorial on variational autoencoders](http://www.cs.ubc.ca/~amuham01/LING530/papers/doersch2016tutorial.pdf)]
+
+* [[Adversarially Regularized Autoencoders](http://www.cs.ubc.ca/~amuham01/LING530/papers/zhao2018adversarially.pdf)]
+
+* [[Joint Embedding of Words and Labels for Text Classification](http://www.cs.ubc.ca/~amuham01/LING530/papers/wang2018joint.pdf)]
+
+* [[Learning Adversarial Networks for Semi-Supervised Text Classification via Policy Gradient](http://www.cs.ubc.ca/~amuham01/LING530/papers/li2018learning.pdf)]
+
+* [[Realistic Evaluation of Semi-Supervised Learning Algorithms](http://www.cs.ubc.ca/~amuham01/LING530/papers/oliver2018realistic.pdf)]
+
+* [[Improving language understanding by generative pre-training](http://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)]
+
+* [[Automatic Stance Detection Using End-to-End Memory Networks](www.cs.ubc.ca/~amuham01/LING530/papers/mohtarami2018automatic.pdf)]
+
+* [[Neural Machine Translation by Jointly Learning to Align and Translate](www.cs.ubc.ca/~amuham01/LING530/papers/bahdanau2014neural.pdf)]
+
+* [[Grammar as a foreign language](www.cs.ubc.ca/~amuham01/LING530/papers/vinyals2015grammar.pdf)] 
+
+* [[Deep Models for Arabic Dialect Identification on Benchmarked Data](www.cs.ubc.ca/~amuham01/LING530/papers/elarabyDeepModels2018.pdf)]
+
+* [[A Neural Model for User Geolocation and Lexical Dialectology](http://www.cs.ubc.ca/~amuham01/LING530/papers/rahimiGeoloc2017.pdf)]
+
+* [[Deep Contextualized Word Representations]](http://www.cs.ubc.ca/~amuham01/LING530/papers/petersELMo2018.pdf)
+
+* [[Emonet: Fine-grained emotion detection with gated recurrent neural networks]](www.cs.ubc.ca/~amuham01/LING530/papers/mageedEmoNet2017.pdf)
 
 ## 9. Course Assignments/Grades:
 | Assignment | Due date | Weight |
