@@ -125,7 +125,7 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Wed Nov 21    |    Generative Adversarial Networks |    |          |
 | Mon Nov 26    |    Projects |      |        |
 | Wed Nov 28    |    Projects  |      |        |
-| Mon Dec 2    |    | --  |   Final project due  (hw03_b)       |
+| Mon Dec 3    |    | --  |   Final project due  (hw03_b)       |
 
 
 
@@ -140,7 +140,7 @@ Additionally, a list of related papers will be posted here.
 | ASSIGNMENT 1: Individual assignment: Word Embeddings |  Oct 3 | 15% |
 | ASSIGNMENT 2: Individual assignment: Text Classification with RNNs |  Oct. 24 | 20% |
 | ASSIGNMENT 3_A: Group assignment: Project Proposal |    Nov. 5 | 5% |
-| ASSIGNMENT 3_B: Group assignment: Term Project (GROUP of 3) |   Dec 2   | 45% |
+| ASSIGNMENT 3_B: Group assignment: Term Project (GROUP of 3) |   Dec 3   | 45% |
 
 ## Notes on Assignments:
 
