@@ -140,7 +140,7 @@ Additionally, a list of related papers will be posted here.
 | ASSIGNMENT 1: Individual assignment: Word Embeddings |  Oct 3 | 15% |
 | ASSIGNMENT 2: Individual assignment: Text Classification with RNNs |  Oct. 24 | 20% |
 | ASSIGNMENT 3_A: Group assignment: Project Proposal |    Nov. 5 | 5% |
-| ASSIGNMENT 3_B: Group assignment: Term Project (GROUP of 3) |   Dec 3   | 45% |
+| ASSIGNMENT 3_B: Group assignment: Term Project (GROUP of 3) |   Dec 2   | 45% |
 
 ## Notes on Assignments:
 
