@@ -102,7 +102,7 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Mon Sept 3    |  Labor Day – UBC closed  | NA  |            |
 | Wed Sept 5    |  Course overview  | NA  |            |
 | Mon Sept 10    |  Guest speaker (MAM@ECML)  | Linear Algebra: [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html); [MIT Course](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)]  |            |
-| Wed Sept 12    |  Guest speaker (MAM@ECML)  | NA  |            |
+| Wed Sept 12    |  Guest speaker (MAM@ECML)  | [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)  |            |
 | Mon Sept 17    |    Probability  | [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry)]  |         |
 | Wed Sept 19    |    Information Theory  |  [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]; [KAI](https://www.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory); [KAII](https://www.khanacademy.org/computing/computer-science/informationtheory)]  |        |
 | Mon Sept 24    |    Machine Learning Basics | [[DLB CH05](https://www.deeplearningbook.org/contents/ml.html)]  |         |
@@ -121,8 +121,8 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Wed Nov 7    |    Seq2Seq; Neural Machine Translation  |   [[Grammar as a foreign language](http://www.cs.ubc.ca/~amuham01/LING530/papers/vinyals2015grammar.pdf)]    |        |
 | Mon Nov 12    |  Remembrance Day – UBC closed  | NA  |            |
 | Wed Nov 14    |    Memory & Attention; Neural Misinformation  Detection |  [[Neural Machine Translation by Jointly Learning to Align and Translate](http://www.cs.ubc.ca/~amuham01/LING530/papers/bahdanau2014neural.pdf)]; [[Automatic Stance Detection Using End-to-End Memory Networks](http://www.cs.ubc.ca/~amuham01/LING530/papers/mohtarami2018automatic.pdf)]  |         |
-| Mon Nov 19    |    (Variational) Auto-Encoders  | [[DLB CH14](https://www.deeplearningbook.org/contents/autoencoders.html)]  |           |
-| Wed Nov 21    |    Generative Adversarial Networks |    |          |
+| Mon Nov 19    |    (Variational) Auto-Encoders  | [[DLB CH14](https://www.deeplearningbook.org/contents/autoencoders.html)]; [[DLB CH20.10.3](https://www.deeplearningbook.org/contents/generative_models.html)]; [[Semi-supervised sequence learning](www.cs.ubc.ca/~amuham01/LING530/papers/dai2015semi.pdf)]  |           |
+| Wed Nov 21    |    Generative Adversarial Networks |  [[DLB CH20.10.4](https://www.deeplearningbook.org/contents/generative_models.html)]  |          |
 | Mon Nov 26    |    Projects |      |        |
 | Wed Nov 28    |    Projects  |      |        |
 | Mon Dec 3    |    | --  |   Final project due  (hw03_b)       |
