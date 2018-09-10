@@ -55,7 +55,7 @@ Upon completion of this course students will be able to:
 * recurrent neural networks 
 * convolutional neural networks
 * seq2seq models
-* generative deep learning
+* deep generative models (auo-encoders and generative adversarial networks)
 
 ### Applications ###
 
@@ -69,7 +69,7 @@ Upon completion of this course students will be able to:
 ## 4.	Prerequisites:  
 
 * have some familiarity with at least one linguistics field
-* have some familiarity with basic linear algebra, basic calculus, \\and basic probability (basic $=$ high school level)
+* have some familiarity with basic linear algebra, basic calculus, and basic probability (basic = high school level)
 * have programming experience in Python
 * have access to a computer (preferably with a GPU) on a regular basis
  
@@ -102,7 +102,7 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Mon Sept 3    |  Labor Day – UBC closed  | NA  |            |
 | Wed Sept 5    |  Course overview  | NA  |            |
 | Mon Sept 10    |  Guest speaker (MAM@ECML)  | Linear Algebra: [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html); [MIT Course](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)]  |            |
-| Wed Sept 12    |  Guest speaker (MAM@ECML)  | [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html)  |            |
+| Wed Sept 12    |  Guest speaker (MAM@ECML)  | [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html) ] |            |
 | Mon Sept 17    |    Probability  | [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry)]  |         |
 | Wed Sept 19    |    Information Theory  |  [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]; [KAI](https://www.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory); [KAII](https://www.khanacademy.org/computing/computer-science/informationtheory)]  |        |
 | Mon Sept 24    |    Machine Learning Basics | [[DLB CH05](https://www.deeplearningbook.org/contents/ml.html)]  |         |
@@ -132,6 +132,8 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 ## 8. Readings:  
 See Section 7 above.
 Additionally, a list of related papers will be posted here.
+* [[Toward controlled generation of text](www.cs.ubc.ca/~amuham01/LING530/papers/hu2017toward.pdf)]
+
 
 ## 9. Course Assignments/Grades:
 | Assignment | Due date | Weight |
