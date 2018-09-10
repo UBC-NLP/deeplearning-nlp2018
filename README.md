@@ -134,7 +134,7 @@ See Section 7 above.
 Additionally, below is list of relevant/interesting/background papers.
 This list will grow.
 
-* [[Toward controlled generation of text](www.cs.ubc.ca/~amuham01/LING530/papers/hu2017toward.pdf)]
+* [[Toward controlled generation of text](http://www.cs.ubc.ca/~amuham01/LING530/papers/hu2017toward.pdf)]
 
 * [[Tutorial on variational autoencoders](http://www.cs.ubc.ca/~amuham01/LING530/papers/doersch2016tutorial.pdf)]
 
@@ -148,27 +148,27 @@ This list will grow.
 
 * [[Improving language understanding by generative pre-training](http://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)]
 
-* [[Automatic Stance Detection Using End-to-End Memory Networks](www.cs.ubc.ca/~amuham01/LING530/papers/mohtarami2018automatic.pdf)]
+* [[Automatic Stance Detection Using End-to-End Memory Networks](http://www.cs.ubc.ca/~amuham01/LING530/papers/mohtarami2018automatic.pdf)]
 
-* [[Neural Machine Translation by Jointly Learning to Align and Translate](www.cs.ubc.ca/~amuham01/LING530/papers/bahdanau2014neural.pdf)]
+* [[Neural Machine Translation by Jointly Learning to Align and Translate](http://www.cs.ubc.ca/~amuham01/LING530/papers/bahdanau2014neural.pdf)]
 
-* [[Grammar as a foreign language](www.cs.ubc.ca/~amuham01/LING530/papers/vinyals2015grammar.pdf)] 
+* [[Grammar as a foreign language](http://www.cs.ubc.ca/~amuham01/LING530/papers/vinyals2015grammar.pdf)] 
 
-* [[Deep Models for Arabic Dialect Identification on Benchmarked Data](www.cs.ubc.ca/~amuham01/LING530/papers/elarabyDeepModels2018.pdf)]
+* [[Deep Models for Arabic Dialect Identification on Benchmarked Data](http://www.cs.ubc.ca/~amuham01/LING530/papers/elarabyDeepModels2018.pdf)]
 
 * [[A Neural Model for User Geolocation and Lexical Dialectology](http://www.cs.ubc.ca/~amuham01/LING530/papers/rahimiGeoloc2017.pdf)]
 
 * [[Deep Contextualized Word Representations]](http://www.cs.ubc.ca/~amuham01/LING530/papers/petersELMo2018.pdf)
 
-* [[Emonet: Fine-grained emotion detection with gated recurrent neural networks]](www.cs.ubc.ca/~amuham01/LING530/papers/mageedEmoNet2017.pdf)
+* [[Emonet: Fine-grained emotion detection with gated recurrent neural networks]](http://www.cs.ubc.ca/~amuham01/LING530/papers/mageedEmoNet2017.pdf)
 
 * [[Is statistical machine translation approach dead?](http://www.cs.ubc.ca/~amuham01/LING530/papers/menacer2017statistical.pdf)]
 
 * [[Neural machine translation and sequence-to-sequence models: A tutorial](http://www.cs.ubc.ca/~amuham01/LING530/papers/neubig2017neural.pdf)]
 
-* [[Adversarial training methods for semi-supervised text classification](www.cs.ubc.ca/~amuham01/LING530/papers/miyato2016adversarial.pdf)]
+* [[Adversarial training methods for semi-supervised text classification](http://www.cs.ubc.ca/~amuham01/LING530/papers/miyato2016adversarial.pdf)]
 
-* [[Learned in translation: Contextualized word vectors](www.cs.ubc.ca/~amuham01/LING530/papers/mccann2017learned.pdf)]
+* [[Learned in translation: Contextualized word vectors](http://www.cs.ubc.ca/~amuham01/LING530/papers/mccann2017learned.pdf)]
 
 * [[Semi-supervised sequence learning](http://www.cs.ubc.ca/~amuham01/LING530/papers/dai2015semi.pdf)]
 
