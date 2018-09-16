@@ -103,7 +103,7 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Wed Sept 5    |  Course overview  | NA  |            |
 | Mon Sept 10    |  Guest speaker (MAM@ECML)  | Linear Algebra: [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html); [MIT Course](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)]  |    hw01 out (Canvas)        |
 | Wed Sept 12    |  Guest speaker (MAM@ECML)  | [[DLB CH02](https://www.deeplearningbook.org/contents/linear_algebra.html) ] |            |
-| Mon Sept 17    |    Probability  | [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry)]  |         |
+| Mon Sept 17    |    Probability  | [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html); [KA](https://www.khanacademy.org/math/statistics-probability/probability/probability-geometry)]; [[Harvard Stats](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)  |         |
 | Wed Sept 19    |    Information Theory  |  [[DLB CH03](https://www.deeplearningbook.org/contents/prob.html)]; [KAI](https://www.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory); [KAII](https://www.khanacademy.org/computing/computer-science/informationtheory)]  |        |
 | Mon Sept 24    |    Machine Learning Basics | [[DLB CH05](https://www.deeplearningbook.org/contents/ml.html)]  |         |
 | Wed Sept 26    |    Word meaning; Feedforward Networks |  [[JM CH15](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)]; [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)] |           |
