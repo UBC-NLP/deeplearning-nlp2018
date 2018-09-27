@@ -108,9 +108,9 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Mon Sept 24    |   Information Theory & Machine Learning Basics I | [[info_theory_slides](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/information_theory.pdf)]; [[ml_basics_slides](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/ml_basics.pdf)]; [[DLB CH05](https://www.deeplearningbook.org/contents/ml.html)]; [[KA: Calculus](https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449); [3B1B Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)] |         |
 | Wed Sept 26    |    Machine Learning Basics II  | Same as last session |           |
 | Mon Oct 1    |    Word meaning; Language Models |  [[JM CH06: Vector Semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf)]; [[A neural probabilistic language model](http://www.cs.ubc.ca/~amuham01/LING530/papers/bengio2003neural.pdf)]|           |
-| Wed Oct 3    |    Feedforward Networks; Word2Vec | [[Distributed representations of words and phrases and their compositionality](http://www.cs.ubc.ca/~amuham01/LING530/papers/mikolov2013distributed.pdf)]; [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)]  |
+| Wed Oct 3    |    Feedforward Networks; Word2Vec | [[Distributed representations of words and phrases and their compositionality](http://www.cs.ubc.ca/~amuham01/LING530/papers/mikolov2013distributed.pdf)]; [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)]  | hw01 due |
 | Mon Oct 8    |    Thanksgiving Day – UBC closed  | NA  |            |
-| Wed Oct 10    |    Recurrent Neural Networks I  | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]  | hw01 due     |
+| Wed Oct 10    |    Recurrent Neural Networks I  | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]  |     |
 | Mon Oct 15    |      Recurrent Neural Networks II  | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]   |          |
 | Wed Oct 17    |   Neural Morphology    |    |          |
 | Mon Oct 22   |     Neural Sentiment & Emotion |  [[EmoNet](http://www.cs.ubc.ca/~amuham01/LING530/papers/mageedEmoNet2017.pdf)]   | |        |
