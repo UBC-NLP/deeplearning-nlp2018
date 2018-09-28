@@ -110,7 +110,7 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Mon Oct 1    |    Word meaning |  [[JM CH06: Vector Semantics](https://web.stanford.edu/~jurafsky/slp3/6.pdf)]|           |
 | Wed Oct 3    |    Language Models; Word2Vec I | [[A neural probabilistic language model](http://www.cs.ubc.ca/~amuham01/LING530/papers/bengio2003neural.pdf)]; [[Distributed representations of words and phrases and their compositionality](http://www.cs.ubc.ca/~amuham01/LING530/papers/mikolov2013distributed.pdf)] | hw01 due |
 | Mon Oct 8    |    Thanksgiving Day – UBC closed  | NA  |            |
-| Wed Oct 10    |   Word2Vec II &   | same as last session |     |
+| Wed Oct 10    |   Word2Vec II   | same as last session |     |
 | Mon Oct 15    |      Feedforward Networks & Recurrent Neural Networks I | [[DLB CH06](https://www.deeplearningbook.org/contents/mlp.html)]; [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]   |          |
 | Wed Oct 17    |   Embeddings from Language Models / Guest Speaker Mark Neuman (AI2) | [[semi-supervised seq tagging with bidirectional models](http://www.cs.ubc.ca/~amuham01/LING530/papers/peters2017semi.pdf)]; [[ELMo](http://www.cs.ubc.ca/~amuham01/LING530/papers/petersELMo2018.pdf)]; [[Dissecting Contextual Word Embeddings](http://www.cs.ubc.ca/~amuham01/LING530/papers/peters2018dissecting.pdf)]   |          |
 | Mon Oct 22   |     Recurrent Neural Networks II ; Applications: Neural Sentiment & Emotion |  [[EmoNet](http://www.cs.ubc.ca/~amuham01/LING530/papers/mageedEmoNet2017.pdf)]   | |        |
