@@ -117,7 +117,7 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Wed Oct 24   |   Recurrent Neural Networks II | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]  |         |
 | Mon Oct 29    |   Applications: Text Classification; Project Discussion |  |        |
 | Wed Oct 31    |   Gradient-based optimization | [[optimization_slides](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/optimization.pdf)]  |   hw02 due     |
-| Mon Nov 5    |   Applications    |   |   hw03_a due        |
+| Mon Nov 5    |   Applications    | [[application_slides](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/applications.pdf)]  |   hw03_a due        |
 | Wed Nov 7    |  Seq2Seq; Neural Machine Translation  |  [[Grammar as a foreign language](http://www.cs.ubc.ca/~amuham01/LING530/papers/vinyals2015grammar.pdf)]|      |
 | Mon Nov 12    |  Remembrance Day – UBC closed  | NA  |            |
 | Wed Nov 14    |    Applications: Lexical Dialectology; AI & Society / Guest Speaker Christine Wolf (IBM) | [[Deep Models for Arabic Dialect Identification on Benchmarked Data](http://www.cs.ubc.ca/~amuham01/LING530/papers/elarabyDeepModels2018.pdf)]; [[A Neural Model for User Geolocation and Lexical Dialectology](http://www.cs.ubc.ca/~amuham01/LING530/papers/rahimiGeoloc2017.pdf)] |         |
