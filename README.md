@@ -117,12 +117,12 @@ Students lacking any of the above pre-requisites must be open to learn outside t
 | Wed Oct 24   |   Recurrent Neural Networks II | [[DLB CH10](https://www.deeplearningbook.org/contents/rnn.html)]  |         |
 | Mon Oct 29    |   Applications: Text Classification; Project Discussion |  |        |
 | Wed Oct 31    |   Gradient-based optimization | [[optimization_slides](https://github.com/UBC-NLP/deeplearning-nlp2018/blob/master/slides/optimization.pdf)]  |   hw02 due     |
-| Mon Nov 5    |   Seq2Seq; Neural Machine Translation    | [[Grammar as a foreign language](http://www.cs.ubc.ca/~amuham01/LING530/papers/vinyals2015grammar.pdf)]  |   hw03_a due        |
-| Wed Nov 7    |  ConvNets  |   [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)] |      |
+| Mon Nov 5    |   Applications    |   |   hw03_a due        |
+| Wed Nov 7    |  Seq2Seq; Neural Machine Translation  |  [[Grammar as a foreign language](http://www.cs.ubc.ca/~amuham01/LING530/papers/vinyals2015grammar.pdf)]|      |
 | Mon Nov 12    |  Remembrance Day – UBC closed  | NA  |            |
 | Wed Nov 14    |    Applications: Lexical Dialectology; AI & Society / Guest Speaker Christine Wolf (IBM) | [[Deep Models for Arabic Dialect Identification on Benchmarked Data](http://www.cs.ubc.ca/~amuham01/LING530/papers/elarabyDeepModels2018.pdf)]; [[A Neural Model for User Geolocation and Lexical Dialectology](http://www.cs.ubc.ca/~amuham01/LING530/papers/rahimiGeoloc2017.pdf)] |         |
-| Mon Nov 19    |  Memory & Attention; Neural Misinformation  Detection |  [[Neural Machine Translation by Jointly Learning to Align and Translate](http://www.cs.ubc.ca/~amuham01/LING530/papers/bahdanau2014neural.pdf)]; [[Automatic Stance Detection Using End-to-End Memory Networks](http://www.cs.ubc.ca/~amuham01/LING530/papers/mohtarami2018automatic.pdf)] |
-| Wed Nov 21    |    (Variational) Auto-Encoders; Generative Adversarial Networks |  [[DLB CH20.10.4](https://www.deeplearningbook.org/contents/generative_models.html)] ; [[DLB CH14](https://www.deeplearningbook.org/contents/autoencoders.html)]; [[DLB CH20.10.3](https://www.deeplearningbook.org/contents/generative_models.html)]; [[Semi-supervised sequence learning](www.cs.ubc.ca/~amuham01/LING530/papers/dai2015semi.pdf)]  |          |
+| Mon Nov 19    |  ConvNets  |  [[DLB CH09](https://www.deeplearningbook.org/contents/convnets.html)]  |
+| Wed Nov 21    |    Attention; Overview of (Variational) Auto-Encoders; Generative Adversarial Networks | ; [[Neural Machine Translation by Jointly Learning to Align and Translate](http://www.cs.ubc.ca/~amuham01/LING530/papers/bahdanau2014neural.pdf)]; [[DLB CH20.10.4](https://www.deeplearningbook.org/contents/generative_models.html)] ; [[DLB CH14](https://www.deeplearningbook.org/contents/autoencoders.html)]; [[DLB CH20.10.3](https://www.deeplearningbook.org/contents/generative_models.html)]; [[Semi-supervised sequence learning](www.cs.ubc.ca/~amuham01/LING530/papers/dai2015semi.pdf)]  |          |
 | Mon Nov 26    |    Projects |      |        |
 | Wed Nov 28    |    Projects  |      |        |
 | Mon Dec 3    |    | --  |   Final project due  (hw03_b)       |
